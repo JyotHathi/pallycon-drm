@@ -1,4 +1,4 @@
-<h1>Pollycon
+<h1>Pallycon
 <a href="https://pallycon.com/">
    <img width="24" height="24" src="https://img.icons8.com/fluency/48/link.png" alt="link"/>
 </a>
