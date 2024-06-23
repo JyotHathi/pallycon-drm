@@ -1,4 +1,4 @@
-<h1>>Use Software:</h1>
+<h1>Used Software:</h1>
 <a href="https://pallycon.com/">Pollycon</a>
 <hr />
 
