@@ -1,13 +1,15 @@
 <h1>Pollycon
-<div style="display:flex;flex-direction:row">
 <a href="https://pallycon.com/">
    <img width="24" height="24" src="https://img.icons8.com/fluency/48/link.png" alt="link"/>
 </a>
-<a href="https://login.pallycon.com/?lang=en&_gl=1*juee59*_ga*MTI1NTQxMjQ2My4xNzE5MTE5NTMx*_ga_1J5K0D1B1Z*MTcxOTE1NTYxMi40LjEuMTcxOTE1NjA2Ni42MC4wLjA.">Login portal</a>
-<a href="https://console.pallycon.com/drm/setting">DRM settings </a>
-</div>
 </h1>
-<a href="https://pollycon-drm.vercel.app/">Demo</a>
+<div style="display:flex;flex-direction:row;width:'100%';justify-content:space-between">
+   <a href="https://pollycon-drm.vercel.app/">Demo</a>
+   <a href="https://login.pallycon.com/?lang=en&_gl=1*juee59*_ga*MTI1NTQxMjQ2My4xNzE5MTE5NTMx*_ga_1J5K0D1B1Z*MTcxOTE1NTYxMi40LjEuMTcxOTE1NjA2Ni42MC4wLjA.">Login portal</a>
+   <a href="https://console.pallycon.com/drm/setting">DRM settings </a>
+</div>
+
+
 <hr />
 
 <h1>To Donwload Packager For Conversion of File</h1>
