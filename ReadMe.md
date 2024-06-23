@@ -1,6 +1,6 @@
 <h1>Pollycon
 <a href="https://pallycon.com/">
-   <img width="48" height="48" src="https://img.icons8.com/fluency/48/link.png" alt="link"/>
+   <img width="24" height="24" src="https://img.icons8.com/fluency/48/link.png" alt="link"/>
 </a>
 </h1>
 <a href="https://pollycon-drm.vercel.app/">Demo</a>
