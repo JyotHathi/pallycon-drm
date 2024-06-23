@@ -26,7 +26,7 @@ Command After downloading packager :
 <a href="https://sample.pallycon.com/customdata/#createToken">Token Generation</a>
 <ul>
     <li>SITE ID, SITE Key, ACCESS Key from DRM settings section</li>
-    <li>DRM Type : </li>
+    <li>DRM Type : Widevine , PlayReady</li>
     <li>USER ID : Add User ID</li>
     <li>Response Format : Default original only</li>
     <li>Key Rotation : Default false</li>
