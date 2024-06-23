@@ -1,6 +1,6 @@
 <h1>Pollycon
 <a href="https://pallycon.com/">
-   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA/0lEQVR4nO2VOxLCIBCGo1fa9UA6Wqg3cJxJaeOuR/FVWmgt6wVyE21wiPGBogmCjoX/DEUY+D6yIZAkX0uq6w2SDpBaAMnK1RokndspMJZutbGprgOrJbJoIJWFCJDV3nCQZH0ZaCbm8LF0Q4qAJFzAD5bgVBaVRYIzsGwsgXmwOvzho7wCrCZOXogA7+BRBeiARxMgC7ng501j7ThfAT5Z+asJlQVAaugF9xUgSQ9ZBpXhvoIqCf4GZYn6H7jyF/xgiSDCcX0bw0KS2bWDpV2c5b0kMMjSP7F2zbsrU+ZlVyaUNpUVC50mWtdstdY1nGxb5tXeFRhwvvIH+AdzBMLyg5H65/fMAAAAAElFTkSuQmCC">
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/link.png" alt="link"/>
 </a>
 </h1>
 <a href="https://pollycon-drm.vercel.app/">Demo</a>
