@@ -1,7 +1,8 @@
-<h1>Pollycon</h1>
+<h1>Pollycon
 <a href="https://pallycon.com/">
-   <img width="24" height="24" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/24/000000/external-share-ui-anggara-basic-outline-anggara-putra.png" alt="external-share-ui-anggara-basic-outline-anggara-putra"/> 
+   <img width="24" height="24" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/24/000000/external-share-ui-anggara-basic-outline-anggara-putra.png" alt="external-share-ui-anggara-basic-outline-anggara-putra"/>
 </a>
+</h1>
 <a href="https://pollycon-drm.vercel.app/">Demo</a>
 <hr />
 
