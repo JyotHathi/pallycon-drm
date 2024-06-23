@@ -2,7 +2,7 @@ var browser = 'Non-DRM browser';
 var drmType = 'No DRM';
 
 // Replace the DASH and HLS URIs when you test your own content. 
-var dashUri = 'https://localhost/media/demo/dash/stream.mpd';
+var dashUri = './media/demo/dash/stream.mpd';
 var hlsUri = 'https://vz-a9a2725a-03d.b-cdn.net/cfdbe93b-23d8-4001-935e-94690ca36bc4/playlist.m3u8';
 
 var licenseUri = 'https://license-global.pallycon.com/ri/licenseManager.do';
