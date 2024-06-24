@@ -7,6 +7,7 @@
    <a href="https://pollycon-drm.vercel.app/">Demo</a>
    <a href="https://login.pallycon.com/?lang=en&_gl=1*juee59*_ga*MTI1NTQxMjQ2My4xNzE5MTE5NTMx*_ga_1J5K0D1B1Z*MTcxOTE1NTYxMi40LjEuMTcxOTE1NjA2Ni42MC4wLjA.">Login portal</a>
    <a href="https://console.pallycon.com/drm/setting">DRM settings </a>
+   <a href="https://github.com/inka-pallycon/html5-player-drm-samples">Sample Codes for HTML5 </a>
 </div>
 
 
